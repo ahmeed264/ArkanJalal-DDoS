@@ -5,7 +5,7 @@ pkg install git -y
 pkg install python -y
 
 # حمل الأداة
-git clone https://github.com/ArkanJalal/ArkanJalal-DDoS.git
+git clone https://github.com/ahmeed264/ArkanJalal-DDoS.git
 
 # ادخل المجلد
 cd ArkanJalal-DDoS
